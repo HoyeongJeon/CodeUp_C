@@ -7,8 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C2523CE526725EE000BA8F5C /* 1002.c in Sources */ = {isa = PBXBuildFile; fileRef = C2523CE426725EE000BA8F5C /* 1002.c */; };
-		C277CE972679ECDF008EE2B5 /* 1003.c in Sources */ = {isa = PBXBuildFile; fileRef = C277CE962679ECDF008EE2B5 /* 1003.c */; };
+		C277CE992679ED4D008EE2B5 /* 1004.c in Sources */ = {isa = PBXBuildFile; fileRef = C277CE982679ED4D008EE2B5 /* 1004.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +27,7 @@
 		C2523CDD26725E3800BA8F5C /* 1001.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1001.c; sourceTree = "<group>"; };
 		C2523CE426725EE000BA8F5C /* 1002.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1002.c; sourceTree = "<group>"; };
 		C277CE962679ECDF008EE2B5 /* 1003.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1003.c; sourceTree = "<group>"; };
+		C277CE982679ED4D008EE2B5 /* 1004.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1004.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +63,7 @@
 				C2523CDD26725E3800BA8F5C /* 1001.c */,
 				C2523CE426725EE000BA8F5C /* 1002.c */,
 				C277CE962679ECDF008EE2B5 /* 1003.c */,
+				C277CE982679ED4D008EE2B5 /* 1004.c */,
 			);
 			path = CodeUp_C;
 			sourceTree = "<group>";
@@ -123,8 +124,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C2523CE526725EE000BA8F5C /* 1002.c in Sources */,
-				C277CE972679ECDF008EE2B5 /* 1003.c in Sources */,
+				C277CE992679ED4D008EE2B5 /* 1004.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
