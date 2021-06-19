@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C2C1ECB0267DC890000EB0BE /* 1026.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C1ECAF267DC890000EB0BE /* 1026.c */; };
+		C2C1ECB2267DC971000EB0BE /* 1027.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C1ECB1267DC971000EB0BE /* 1027.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -48,6 +48,7 @@
 		C277CE9C2679EE3E008EE2B5 /* 1006.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1006.c; sourceTree = "<group>"; };
 		C277CE9E2679EEBE008EE2B5 /* 1007.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1007.c; sourceTree = "<group>"; };
 		C2C1ECAF267DC890000EB0BE /* 1026.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1026.c; sourceTree = "<group>"; };
+		C2C1ECB1267DC971000EB0BE /* 1027.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1027.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +105,7 @@
 				C242D6A8267C53CD00C70842 /* 1024.c */,
 				C242D6AA267C556700C70842 /* 1025.c */,
 				C2C1ECAF267DC890000EB0BE /* 1026.c */,
+				C2C1ECB1267DC971000EB0BE /* 1027.c */,
 			);
 			path = CodeUp_C;
 			sourceTree = "<group>";
@@ -164,7 +166,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C2C1ECB0267DC890000EB0BE /* 1026.c in Sources */,
+				C2C1ECB2267DC971000EB0BE /* 1027.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
