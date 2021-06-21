@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C2758F96267F433900AF69A3 /* 1035.c in Sources */ = {isa = PBXBuildFile; fileRef = C2758F95267F433900AF69A3 /* 1035.c */; };
+		C26FF70D2680221900C184FC /* 1036.c in Sources */ = {isa = PBXBuildFile; fileRef = C26FF70C2680221900C184FC /* 1036.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -42,6 +42,7 @@
 		C2523CDA26725E3800BA8F5C /* CodeUp_C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodeUp_C; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2523CDD26725E3800BA8F5C /* 1001.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1001.c; sourceTree = "<group>"; };
 		C2523CE426725EE000BA8F5C /* 1002.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1002.c; sourceTree = "<group>"; };
+		C26FF70C2680221900C184FC /* 1036.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1036.c; sourceTree = "<group>"; };
 		C2758F90267F41EB00AF69A3 /* 1033.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1033.c; sourceTree = "<group>"; };
 		C2758F93267F428200AF69A3 /* 1034.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1034.c; sourceTree = "<group>"; };
 		C2758F95267F433900AF69A3 /* 1035.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1035.c; sourceTree = "<group>"; };
@@ -122,6 +123,7 @@
 				C2758F90267F41EB00AF69A3 /* 1033.c */,
 				C2758F93267F428200AF69A3 /* 1034.c */,
 				C2758F95267F433900AF69A3 /* 1035.c */,
+				C26FF70C2680221900C184FC /* 1036.c */,
 			);
 			path = CodeUp_C;
 			sourceTree = "<group>";
@@ -182,7 +184,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C2758F96267F433900AF69A3 /* 1035.c in Sources */,
+				C26FF70D2680221900C184FC /* 1036.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
